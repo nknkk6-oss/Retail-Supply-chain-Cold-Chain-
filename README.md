@@ -1,4 +1,4 @@
-# Retail-Supply-chain-Cold-Chain
+what is food retail supply chain?
 
 Retail Logistics Improvement Opportunities
 This guide outlines practical ways to improve decision-making in retail logistics by refining inventory strategies, strengthening supplier collaboration, and upgrading decision support tools. It also highlights different approaches based on product types.
